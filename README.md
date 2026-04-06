@@ -22,4 +22,4 @@ Sales data analysis and visualization using Microsoft Excel to generate actionab
 ## 🎯 Objective
 To convert raw sales data into meaningful insights for better decision-making.
 ## 📷 Dashboard Preview
-<img width="704" height="853" alt="Screenshot 2026-04-06 102610" src="https://github.com/user-attachments/assets/06986898-cf52-453b-a950-a91b071b9413" />
+<img width="1267" height="706" alt="Screenshot 2026-04-06 102224" src="https://github.com/user-attachments/assets/6e9fe600-779c-4e97-8a22-06995e6959b6" />
